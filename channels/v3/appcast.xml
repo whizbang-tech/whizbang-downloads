@@ -5,20 +5,26 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Whizbang</title>
         <item>
             <title>3.0.0</title>
-            <pubDate>Thu, 08 Oct 2026 17:56:25 -0500</pubDate>
-            <sparkle:version>17</sparkle:version>
+            <pubDate>Fri, 09 Oct 2026 00:34:13 -0500</pubDate>
+            <sparkle:version>19</sparkle:version>
             <sparkle:shortVersionString>3.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[Whizbang 3.0.0 (17)
+            <description sparkle:format="markdown"><![CDATA[# Whizbang 3.0.0
 
-Uploads and downloads use the hosted files gateway for the full R2 switch. This build moves automatic updates to a signed feed that can advance independently of immutable installers. Builds 15 and 16 need one manual install of build 17 to migrate feeds.
+This build brings the latest native workspace changes together for local review.
 
-Encrypted last-copy and delta foundations are integrated behind disabled switches while their remaining consumer acceptance checks are completed.
+- Refined Matters navigation and contact selection.
+- Updated client portal tasks, uploads, and case activity.
+- Improved Growth dashboards and safer Calendar meeting creation.
+- Corrected Phone settings compatibility.
+- Included the latest offline workspace, Forms, and Training improvements.
+
+Requires macOS 27 or later. Sign in with your existing account.
 ]]></description>
-            <enclosure url="https://github.com/whizbang-tech/whizbang-downloads/releases/download/v3-3.0.0-build.17/Whizbang-3.0.0-17.dmg" length="265059143" type="application/octet-stream" sparkle:edSignature="S8MyNXGPgavhL8yCQGyz57yersTnzkHtuOuxbxgqBZR+YbXwmtx3QaF3qBI5a2lK4f1zajzcWPfCevCnCp+6DA=="></enclosure>
+            <enclosure url="https://github.com/whizbang-tech/whizbang-downloads/releases/download/v3-3.0.0-build.19/Whizbang-3.0.0-19.dmg" length="266527581" type="application/octet-stream" sparkle:edSignature="zSBhGMbjVJVAN8GUrjqU+xu96ltvDnJhZV775Zv7qXqNuSLUX9qJZYeuu9W1mF96hrdmHEKNC1tvUj+AA3EODA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: BZ016sTTFjmSg/bFZKqqa2nFRxoJqy33actTbq5+4EdcueWc1/BdW9FjD/QkjPR7SGkWEBshTTnNrglN8aw6Cw==
-length: 1573
+edSignature: ib/rWX7vnd/c9BK+/ZMejNH684y5IVU9VPBWh2H1lVjRtqLFHWt1pjFAwUVyWmKqo9FGMUuZlkj4RGKxWxTCCQ==
+length: 1610
 -->
