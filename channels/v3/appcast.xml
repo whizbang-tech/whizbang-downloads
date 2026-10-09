@@ -5,26 +5,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Whizbang</title>
         <item>
             <title>3.0.0</title>
-            <pubDate>Fri, 09 Oct 2026 00:34:13 -0500</pubDate>
-            <sparkle:version>19</sparkle:version>
+            <pubDate>Fri, 09 Oct 2026 12:11:57 -0500</pubDate>
+            <sparkle:version>20</sparkle:version>
             <sparkle:shortVersionString>3.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Whizbang 3.0.0
+            <description sparkle:format="markdown"><![CDATA[# Whizbang 3.0.0 (build 20)
 
-This build brings the latest native workspace changes together for local review.
+Local-first foundation. Whizbang now keeps your working records in an encrypted database on this Mac and reads from it first.
 
-- Refined Matters navigation and contact selection.
-- Updated client portal tasks, uploads, and case activity.
-- Improved Growth dashboards and safer Calendar meeting creation.
-- Corrected Phone settings compatibility.
-- Included the latest offline workspace, Forms, and Training improvements.
-
-Requires macOS 27 or later. Sign in with your existing account.
+- Tasks, Calendar, Directory, Matters, Notes, Switchboard, Documents, Forms, Time and Training open from protected local storage before the server answers.
+- Edits you make while disconnected are saved on this Mac and synchronize when you reconnect, with clear "saved here / waiting to sync / confirmed" states.
+- Private drafts (Library, Profile, Notes, Forms, messages, Growth content) are kept encrypted and survive quit and restart.
+- Workspace lock hides private content immediately; offline access uses a signed seven-day grant issued by your firm.
+- Recovery for new task drafts, Profile edits and clean quit behaviour repaired.
 ]]></description>
-            <enclosure url="https://github.com/whizbang-tech/whizbang-downloads/releases/download/v3-3.0.0-build.19/Whizbang-3.0.0-19.dmg" length="266527581" type="application/octet-stream" sparkle:edSignature="zSBhGMbjVJVAN8GUrjqU+xu96ltvDnJhZV775Zv7qXqNuSLUX9qJZYeuu9W1mF96hrdmHEKNC1tvUj+AA3EODA=="></enclosure>
+            <enclosure url="https://github.com/whizbang-tech/whizbang-downloads/releases/download/v3-3.0.0-build.20/Whizbang-3.0.0-20.dmg" length="268856634" type="application/octet-stream" sparkle:edSignature="9RDkiCu6LmEbbMzK4ZQI478GgKVADpj1SQa4x0VqiigWDkQmWhbT/40Resg2jeN3DJLNRSNxZdu+VBjmR/KJCA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: ib/rWX7vnd/c9BK+/ZMejNH684y5IVU9VPBWh2H1lVjRtqLFHWt1pjFAwUVyWmKqo9FGMUuZlkj4RGKxWxTCCQ==
-length: 1610
+edSignature: meMpn69+NcHlwTPie9ZdKf0nL/L16tl+SOc3CDiRjhQnN2mV+o8cJVCrcA+opr+weKLK66q88lA6U9M32TpdAA==
+length: 1943
 -->
