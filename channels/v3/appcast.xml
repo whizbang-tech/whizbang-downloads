@@ -5,24 +5,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Whizbang</title>
         <item>
             <title>3.0.0</title>
-            <pubDate>Fri, 09 Oct 2026 14:25:54 -0500</pubDate>
-            <sparkle:version>21</sparkle:version>
+            <pubDate>Fri, 09 Oct 2026 15:07:17 -0500</pubDate>
+            <sparkle:version>22</sparkle:version>
             <sparkle:shortVersionString>3.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Whizbang 3.0.0 (build 21)
+            <description sparkle:format="markdown"><![CDATA[# Whizbang 3.0.0 (build 22)
 
-Local-first, continued.
-
-- Evidence: downloaded versions, private originals and held uploads are kept in encrypted storage on this Mac; uploads still complete online.
-- Profile: private edits to your own contact details are kept encrypted until they are saved.
-- Matter Review, Response Engine and Document Generation: in-progress review notes, edited replies and template drafts survive quit and restart, and are flagged for review if the server record changed underneath them.
-- Document Intelligence and Extractor tell you plainly when they need a connection instead of spinning.
-- Faster offline access grants.
+- Firm profile: edits to the firm's tagline, mission, vision, bio and public contact details are kept encrypted on this Mac until saved, and flagged if the shared record changed underneath them.
+- Finance, Blockchain tracing and Victim Matching say plainly when they need a connection instead of waiting on the server.
+- Privacy lock coverage verified for the browser Library, Lilla and Quick Open.
 ]]></description>
-            <enclosure url="https://github.com/whizbang-tech/whizbang-downloads/releases/download/v3-3.0.0-build.21/Whizbang-3.0.0-21.dmg" length="269631796" type="application/octet-stream" sparkle:edSignature="jFtBbeA9HF+yO/bBF7AAG78qSwIz7stcGlIQwk3x2pw91JrmTiN3Q0VByK+ZVD2bjBYKZpvwxDvzfX7uatzoAg=="></enclosure>
+            <enclosure url="https://github.com/whizbang-tech/whizbang-downloads/releases/download/v3-3.0.0-build.22/Whizbang-3.0.0-22.dmg" length="269677142" type="application/octet-stream" sparkle:edSignature="4W1gVwZtQKCFA0fccHFIvl+ziorQwEVdQ68zYKezi12SxgSiW7GQkaY4sVFaqgkM3B8vu4bB3evGtbBOE4zcCw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: H7iN0VgyQhLOAS8lMTORp/tFKmuI/3dbKy/pcZdkQRKPGl6mWQKYV+/uJzyM+cZSeX5vPJNrbE7nk8/jwK9dAw==
-length: 1795
+edSignature: OUyxpaMlVqj6Dwls8CPveQTLsHwmeQ/GrbL6W0yjr62nol7Huk/yZFuMrtNgHoSmV/REIB6Ah/vEzAjJWJbjBA==
+length: 1579
 -->
