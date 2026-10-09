@@ -5,24 +5,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Whizbang</title>
         <item>
             <title>3.0.0</title>
-            <pubDate>Fri, 09 Oct 2026 12:11:57 -0500</pubDate>
-            <sparkle:version>20</sparkle:version>
+            <pubDate>Fri, 09 Oct 2026 14:25:54 -0500</pubDate>
+            <sparkle:version>21</sparkle:version>
             <sparkle:shortVersionString>3.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Whizbang 3.0.0 (build 20)
+            <description sparkle:format="markdown"><![CDATA[# Whizbang 3.0.0 (build 21)
 
-Local-first foundation. Whizbang now keeps your working records in an encrypted database on this Mac and reads from it first.
+Local-first, continued.
 
-- Tasks, Calendar, Directory, Matters, Notes, Switchboard, Documents, Forms, Time and Training open from protected local storage before the server answers.
-- Edits you make while disconnected are saved on this Mac and synchronize when you reconnect, with clear "saved here / waiting to sync / confirmed" states.
-- Private drafts (Library, Profile, Notes, Forms, messages, Growth content) are kept encrypted and survive quit and restart.
-- Workspace lock hides private content immediately; offline access uses a signed seven-day grant issued by your firm.
-- Recovery for new task drafts, Profile edits and clean quit behaviour repaired.
+- Evidence: downloaded versions, private originals and held uploads are kept in encrypted storage on this Mac; uploads still complete online.
+- Profile: private edits to your own contact details are kept encrypted until they are saved.
+- Matter Review, Response Engine and Document Generation: in-progress review notes, edited replies and template drafts survive quit and restart, and are flagged for review if the server record changed underneath them.
+- Document Intelligence and Extractor tell you plainly when they need a connection instead of spinning.
+- Faster offline access grants.
 ]]></description>
-            <enclosure url="https://github.com/whizbang-tech/whizbang-downloads/releases/download/v3-3.0.0-build.20/Whizbang-3.0.0-20.dmg" length="268856634" type="application/octet-stream" sparkle:edSignature="9RDkiCu6LmEbbMzK4ZQI478GgKVADpj1SQa4x0VqiigWDkQmWhbT/40Resg2jeN3DJLNRSNxZdu+VBjmR/KJCA=="></enclosure>
+            <enclosure url="https://github.com/whizbang-tech/whizbang-downloads/releases/download/v3-3.0.0-build.21/Whizbang-3.0.0-21.dmg" length="269631796" type="application/octet-stream" sparkle:edSignature="jFtBbeA9HF+yO/bBF7AAG78qSwIz7stcGlIQwk3x2pw91JrmTiN3Q0VByK+ZVD2bjBYKZpvwxDvzfX7uatzoAg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: meMpn69+NcHlwTPie9ZdKf0nL/L16tl+SOc3CDiRjhQnN2mV+o8cJVCrcA+opr+weKLK66q88lA6U9M32TpdAA==
-length: 1943
+edSignature: H7iN0VgyQhLOAS8lMTORp/tFKmuI/3dbKy/pcZdkQRKPGl6mWQKYV+/uJzyM+cZSeX5vPJNrbE7nk8/jwK9dAw==
+length: 1795
 -->
