@@ -5,20 +5,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Whizbang</title>
         <item>
             <title>3.0.0</title>
-            <pubDate>Fri, 09 Oct 2026 17:36:31 -0500</pubDate>
-            <sparkle:version>24</sparkle:version>
+            <pubDate>Mon, 12 Oct 2026 01:59:39 -0500</pubDate>
+            <sparkle:version>25</sparkle:version>
             <sparkle:shortVersionString>3.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Whizbang 3.0.0 (build 24)
+            <description sparkle:format="markdown"><![CDATA[# Whizbang 3.0.0 (build 25)
 
-- Task cards from your local copy now show assignee, project and matter again.
-- Cases, Documents, Firm and Notes no longer report errors about the local copy while you are online; the fresh view loads and the local copy is a label, not a gate.
-- Reference Library: keep selected materials on this Mac (from build 23).
+- Your saved workspace no longer locks after idle time or sleep. It stays open while you are signed in; Lock is still available from the menu.
+- Whizbang Vault has retired in favor of Knox. Existing Vault data is preserved and nothing is migrated automatically.
+- Task cards from your local copy show assignee, project and matter again.
+- Cases, Documents, Firm and Notes no longer report local-copy errors while you are online.
+- Reference Library: keep selected materials on this Mac.
 ]]></description>
-            <enclosure url="https://github.com/whizbang-tech/whizbang-downloads/releases/download/v3-3.0.0-build.24/Whizbang-3.0.0-24.dmg" length="269736417" type="application/octet-stream" sparkle:edSignature="swYpt3YiO3S0IIWkz2h7T6ZuyYNgQRHge3YgrwiQpB6iqGtNBx83at6aJkTxqr5T4Cnbhxz2Xphpyf9H+qUPBQ=="></enclosure>
+            <enclosure url="https://github.com/whizbang-tech/whizbang-downloads/releases/download/v3-3.0.0-build.25/Whizbang-3.0.0-25.dmg" length="269643943" type="application/octet-stream" sparkle:edSignature="YNGOEvcSwTTjbDQj2cs+vV8HR8+Az19qnmYc5/RAuK2q0phQFBiNBUeEW9uxyrKf8k78kBaZVcnIGmYOkhuLAw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: s+/yr2uK7hIvYTkSScPOlMoSHXprjo7DOAI/I3MrjiTNwnlIq2TP5kAP5a7bml5Uv21ZUveFLH4/OnmTHacTBg==
-length: 1499
+edSignature: tEoJcWG5MrKUWRffhpZefSx1KfU9G7jB27rPRcPq/q7rDjhvn+AC+XYQL84SPGrBPb40sYir34hZsHCTSXIVCA==
+length: 1667
 -->
