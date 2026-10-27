@@ -1,8 +1,8 @@
 {
   "version": "3.0.0",
-  "build": 25,
+  "build": 26,
   "bundleIdentifier": "tech.whizbang.universal",
   "minimumSystemVersion": "27.0",
-  "downloadURL": "https://github.com/whizbang-tech/whizbang-downloads/releases/download/v3-3.0.0-build.25/Whizbang-3.0.0-25.dmg",
-  "sha256": "85fd2042b84a4c429289e43ca4771c2c0dc38d9f2944971d1f9ddac7f7b023a2"
+  "downloadURL": "https://github.com/whizbang-tech/whizbang-downloads/releases/download/v3-3.0.0-build.26/Whizbang-3.0.0-26.dmg",
+  "sha256": "4f7a432f642864728214374248f308f12b8c6b995206f81ab0d2f18ef2e01e94"
 }

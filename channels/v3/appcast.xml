@@ -5,22 +5,25 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Whizbang</title>
         <item>
             <title>3.0.0</title>
-            <pubDate>Mon, 12 Oct 2026 01:59:39 -0500</pubDate>
-            <sparkle:version>25</sparkle:version>
+            <pubDate>Tue, 27 Oct 2026 07:09:00 -0500</pubDate>
+            <sparkle:version>26</sparkle:version>
             <sparkle:shortVersionString>3.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Whizbang 3.0.0 (build 25)
+            <description sparkle:format="markdown"><![CDATA[# Amicus 3.0.0 (26)
 
-- Your saved workspace no longer locks after idle time or sleep. It stays open while you are signed in; Lock is still available from the menu.
-- Whizbang Vault has retired in favor of Knox. Existing Vault data is preserved and nothing is migrated automatically.
-- Task cards from your local copy show assignee, project and matter again.
-- Cases, Documents, Firm and Notes no longer report local-copy errors while you are online.
-- Reference Library: keep selected materials on this Mac.
+- Convert to matter, including agreements signed or paid outside DocuSeal and Stripe (attorney attested)
+- Conflict check before an engagement offer (when the firm turns it on)
+- A recorded outcome is required after every consult
+- New-lead form shows errors only after you try to continue
+- You're notified when a lead is assigned to you
+- Lead management settings rebuilt, with a guided setup
+- Stay signed in; no workspace lock when another Mac user signs in
+- Unfinished investigation pages hidden
 ]]></description>
-            <enclosure url="https://github.com/whizbang-tech/whizbang-downloads/releases/download/v3-3.0.0-build.25/Whizbang-3.0.0-25.dmg" length="269643943" type="application/octet-stream" sparkle:edSignature="YNGOEvcSwTTjbDQj2cs+vV8HR8+Az19qnmYc5/RAuK2q0phQFBiNBUeEW9uxyrKf8k78kBaZVcnIGmYOkhuLAw=="></enclosure>
+            <enclosure url="https://github.com/whizbang-tech/whizbang-downloads/releases/download/v3-3.0.0-build.26/Whizbang-3.0.0-26.dmg" length="277037364" type="application/octet-stream" sparkle:edSignature="sZ3BtgFM5J9edhnDTi70aZRqsoWbBuWVTtmIBR6HWWk/eb75vuv9zSsZNjFy9gz/QUqLGboSmWm53TQzNmYsDQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: tEoJcWG5MrKUWRffhpZefSx1KfU9G7jB27rPRcPq/q7rDjhvn+AC+XYQL84SPGrBPb40sYir34hZsHCTSXIVCA==
-length: 1667
+edSignature: l7SuIvmuljVAgn9Wo5hIHwbKz62SGp+4V88Z9awyAoH7HHurYGy0apBOL4tK6NK5CK22MGAa3JQTdFgJytvpCQ==
+length: 1674
 -->
